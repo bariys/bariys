@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bariys
-- 👀 I’m interested in python, arduino, esp8266
-- 🌱 I’m currently learning arduino, esp8266
+- 👀 I’m interested in python, arduino, esp, backend development
+- 🌱 I’m currently learning git
 
 
 <!---
